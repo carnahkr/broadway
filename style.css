@@ -1,7 +1,6 @@
 body {
 	font-family:Helvetica;
 	text-align:center;
-	margin:auto;
 }
 
 #banner {
@@ -9,13 +8,48 @@ body {
 	background-size:cover;
 }
 
+#banner a {
+	font-size:18px;
+	color:white;
+}
+
 h1 {
 	font-size: 70px;
 	color: white;
 }
 
-#banner a {
-	font-size:18px;
+#process {
+	font-size:32px;
+}
+
+h3 {
+	font-size:23px;
+}
+
+p {
+	font-size:14px;
+}
+
+#newyork {
+	background-image: url("images/flatiron_building.png");
+	font-size:23px;
+	color:white;
+}
+
+#copy {
+	color:white;
+	font-size:11px;
+	display:inline;
+	text-align:inherit;
+}
+
+#footer {
+	background-color:dimgray;
+	text-align:left;
+	color:white;
+}
+
+#footer a {
 	color:white;
 }
 
