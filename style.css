@@ -3,3 +3,22 @@ body {
 	text-align:center;
 	margin:auto;
 }
+
+#banner {
+	background-image:url("images/flatiron_building.png");
+	background-size:cover;
+}
+
+h1 {
+	font-size: 70px;
+	color: white;
+}
+
+#banner a {
+	font-size:18px;
+	color:white;
+}
+
+#footer p {
+	display:inline;
+}
